@@ -18,7 +18,7 @@
 * 更新了图片文字介绍
 
 
-[公众后](https://mp.weixin.qq.com/s?__biz=MzUzNjg5MjA2Mg==&mid=2247483744&idx=1&sn=7a9f4e19508cc4f7138d6f7ee9820597&chksm=faee0691cd998f8709684eae51e6650ff367804b6a7ba2ceee61d550d160e5e6de7295f9f04c&mpshare=1&scene=1&srcid=&key=d931cc828dee4ddbb744acbf6fef8304c077f27ae2c60d110228b31855a1a83c862d4676a28b85acebe9b797d7fd2aea87220d34bc3774918aec60d0f1d691ed79762faf0f8df59de7e1e618c8e8d709&ascene=1&uin=MTk1NzE5MDEyMw%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=JPfi8Z8T9RAuX7T8ecmXuAGphyqGjVKY6yHd%2FG%2FOz1P%2Fm%2BOvCB4SMe18jY37Z9%2BS)
+欢迎关注我们的公众号[mirror科技](https://mp.weixin.qq.com/s?__biz=MzUzNjg5MjA2Mg==&mid=2247483744&idx=1&sn=7a9f4e19508cc4f7138d6f7ee9820597&chksm=faee0691cd998f8709684eae51e6650ff367804b6a7ba2ceee61d550d160e5e6de7295f9f04c&mpshare=1&scene=1&srcid=&key=d931cc828dee4ddbb744acbf6fef8304c077f27ae2c60d110228b31855a1a83c862d4676a28b85acebe9b797d7fd2aea87220d34bc3774918aec60d0f1d691ed79762faf0f8df59de7e1e618c8e8d709&ascene=1&uin=MTk1NzE5MDEyMw%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=JPfi8Z8T9RAuX7T8ecmXuAGphyqGjVKY6yHd%2FG%2FOz1P%2Fm%2BOvCB4SMe18jY37Z9%2BS)！
 ## 图片
 ![首页](https://github.com/LIJIANcoder97/Tianjian-University-of-Finance-and-Economics-MAP/blob/master/image/first.jpg)
 ![财大简介](https://github.com/LIJIANcoder97/Tianjian-University-of-Finance-and-Economics-MAP/blob/master/image/jianjie.jpg)
