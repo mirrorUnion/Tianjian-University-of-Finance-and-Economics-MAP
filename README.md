@@ -31,11 +31,11 @@
   </tr>
   <tr>
     <td>李健</td>
+    <td>天津财经大学</td>
+    <td>策划，地图，导航</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td>mikedebo@gmail.com</td>
   </tr>
   <tr>
     <td>冯义城</td>
