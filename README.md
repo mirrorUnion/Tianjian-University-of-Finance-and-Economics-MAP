@@ -17,6 +17,60 @@
 * 建筑导航
 * 更新了图片文字介绍
 
+贡献者
+------------
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Affiliation</th>
+    <th>Project</th>
+    <th>GitHub</th>
+    <th>webo</th>
+    <th>Email (if you choose)</th>
+  </tr>
+  <tr>
+    <td>李健</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>mikedebo@gmail.com</td>
+  </tr>
+  <tr>
+    <td>冯义城</td>
+    <td>Mozilla</td>
+    <td>cluster</td>
+    <td>@djmitche</td>
+    <td>&nbsp;</td>
+    <td>dustin@mozila.com</td>
+  </tr>
+  <tr>
+    <td>杜俊</td>
+    <td>g0v.tw, Socialtext, Apple</td>
+    <td>spreadsheet</td>
+    <td>@audreyt</td>
+    <td>@audreyt</td>
+    <td>audreyt@audreyt.org</td>
+  </tr>
+  <tr>
+    <td>黄本子老师</td>
+    <td>Mozilla</td>
+    <td>web-server</td>
+    <td>@gvwilson</td>
+    <td>@gvwilson</td>
+    <td>gvwilson@third-bit.com</td>
+  </tr>
+  <tr>
+    <td>李茜茜</td>
+    <td>Trifork</td>
+    <td>torrent client</td>
+    <td>@krestenkrab</td>
+    <td>@drkrab</td>
+    <td>krab@trifork.com</td>
+  </tr>
+ 
+</table>
 
 
 ## 图片
