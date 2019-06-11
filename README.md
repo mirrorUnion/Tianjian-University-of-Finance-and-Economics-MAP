@@ -17,6 +17,60 @@
 * 建筑导航
 * 更新了图片文字介绍
 
+贡献者
+------------
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Affiliation</th>
+    <th>Project</th>
+    <th>GitHub</th>
+    <th>webo</th>
+    <th>Email (if you choose)</th>
+  </tr>
+  <tr>
+    <td>李健</td>
+    <td>天津财经大学</td>
+    <td>策划，地图，导航，分享，后台</td>
+    <td>LIJIANcoder97</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>冯义城</td>
+    <td>天津财经大学</td>
+    <td>下部建筑选择，建筑详情，图标</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>杜俊</td>
+    <td>天津财经大学</td>
+    <td>公众号运营，文稿和图片</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>黄本子老师</td>
+    <td>高中生</td>
+    <td>建筑图标设计</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>李茜茜</td>
+    <td>天津财经大学</td>
+    <td>界面细节调整，主页，简介，定位</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+ 
+</table>
 
 欢迎关注我们的公众号[mirror科技](https://mp.weixin.qq.com/s?__biz=MzUzNjg5MjA2Mg==&mid=2247483744&idx=1&sn=7a9f4e19508cc4f7138d6f7ee9820597&chksm=faee0691cd998f8709684eae51e6650ff367804b6a7ba2ceee61d550d160e5e6de7295f9f04c&mpshare=1&scene=1&srcid=&key=d931cc828dee4ddbb744acbf6fef8304c077f27ae2c60d110228b31855a1a83c862d4676a28b85acebe9b797d7fd2aea87220d34bc3774918aec60d0f1d691ed79762faf0f8df59de7e1e618c8e8d709&ascene=1&uin=MTk1NzE5MDEyMw%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=JPfi8Z8T9RAuX7T8ecmXuAGphyqGjVKY6yHd%2FG%2FOz1P%2Fm%2BOvCB4SMe18jY37Z9%2BS)！
 ## 图片
