@@ -32,42 +32,42 @@
   <tr>
     <td>李健</td>
     <td>天津财经大学</td>
-    <td>策划，地图，导航</td>
-    <td></td>
+    <td>策划，地图，导航，分享，后台</td>
+    <td>LIJIANcoder97</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>冯义城</td>
-    <td>Mozilla</td>
-    <td>cluster</td>
-    <td>@djmitche</td>
-    <td>&nbsp;</td>
-    <td>dustin@mozila.com</td>
+    <td>天津财经大学</td>
+    <td>下部建筑选择，建筑详情，图标</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>杜俊</td>
-    <td>g0v.tw, Socialtext, Apple</td>
-    <td>spreadsheet</td>
-    <td>@audreyt</td>
-    <td>@audreyt</td>
-    <td>audreyt@audreyt.org</td>
+    <td>天津财经大学</td>
+    <td>公众号运营，文稿和图片t</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>黄本子老师</td>
-    <td>Mozilla</td>
-    <td>web-server</td>
-    <td>@gvwilson</td>
-    <td>@gvwilson</td>
-    <td>gvwilson@third-bit.com</td>
+    <td>高中生</td>
+    <td>建筑图标设计</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>李茜茜</td>
-    <td>Trifork</td>
-    <td>torrent client</td>
-    <td>@krestenkrab</td>
-    <td>@drkrab</td>
-    <td>krab@trifork.com</td>
+    <td>天津财经大学</td>
+    <td>界面细节调整，主页，简介，定位</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
  
 </table>
